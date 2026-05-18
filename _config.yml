@@ -1,0 +1,9 @@
+title: Tech Articles
+description: my personal knowledge base
+theme: "just-the-docs"
+
+color_scheme: dark
+search_enabled: true 
+
+search:
+  focus_shortcut_key: k
