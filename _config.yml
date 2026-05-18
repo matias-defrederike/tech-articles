@@ -2,6 +2,9 @@ title: Tech Articles
 description: my personal knowledge base
 theme: "just-the-docs"
 
+url: "https://matias-defrederike.github.io"
+baseurl: "/tech-articles"
+
 color_scheme: dark
 search_enabled: true 
 
