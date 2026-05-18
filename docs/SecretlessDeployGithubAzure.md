@@ -6,7 +6,7 @@ permalink: secretless-deploy-github-azure-container
 ---
 
 <p align="center">
-<img src="/assets/images/secretless-cover-img.avif" alt="Cover OIDC Article" width="800" style="border-radius: 8px;"/>
+<img src="{{ site.baseurl }}/assets/images/secretless-cover-img.avif" alt="Cover OIDC Article" width="800" style="border-radius: 8px;"/>
 </p>
 
 How many static secrets exist in your company's repos right now? If you're not sure, this article is for you.
@@ -34,7 +34,7 @@ In the context of GitHub Actions, OIDC completely eliminates the need for passwo
 The flow works like this:
 
 <p align="center">
-<img src="/assets/images/secretless-oidc-flow.avif" alt="Cover OIDC Article" width="800" style="border-radius: 8px;"/>
+<img src="{{ site.baseurl }}/assets/images/secretless-oidc-flow.avif" alt="Cover OIDC Article" width="800" style="border-radius: 8px;"/>
 </p>
 
 The only values we need to configure in the repository are identifiers, not passwords:
