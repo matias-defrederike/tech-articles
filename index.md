@@ -14,4 +14,4 @@ Hopefully, you'll find something helpful here!
 
 * **Navigate:** Use the sidebar on the left to explore different categories and folders.
 * **Search:** Looking for something specific? Press `Ctrl + K` (or `Cmd + K`) or use the search bar at the top!
-* **Contribute:** Found a typo or have a suggestion? Check out the [About](/about/) page to see how to reach out or open an issue.
+* **Contribute:** Found a typo or have a suggestion? Check out the [About]({{ site.baseurl }}/about/) page to see how to reach out or open an issue.
