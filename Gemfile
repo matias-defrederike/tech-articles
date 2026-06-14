@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3"
-gem "jekyll-sass-converter", "~> 2.2" # Mantemos para evitar aquele erro do Docker!
+gem "jekyll-sass-converter", "~> 2.2"
 gem "just-the-docs"
