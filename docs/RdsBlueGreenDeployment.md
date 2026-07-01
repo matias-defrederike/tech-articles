@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "AWS Relational Database Service - Blue Green Deployment"
+title: "AWS Relational Database Service: Blue Green Deployment"
 parent: Articles
 permalink: rds-blue-green-deployment
 ---
